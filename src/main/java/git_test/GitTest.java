@@ -9,6 +9,8 @@ public class GitTest extends TestBase {
 	public GitTest() throws IOException {
 		super();
 		System.out.println("new branch ");
+		System.out.println("dailwork ");
+		
 	}
 
 }
